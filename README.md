@@ -8,11 +8,12 @@
 
 - 🌱 President of [GeekPie_ Association](https://github.com/ShanghaitechGeekPie/)
 - 🎓 Studying at **ShanghaiTech University**
-- 💡 Majoring in Computer Architecture & Parallel Computing
+- 🔎 Internship at **Shanghai Jiao Tong University, IPADS**
+- 💡 Majoring in Computer Architecture & Parallel Computing & HPC
 - 🎈 Also Interested in UI/UX, IoT, Electronic Art
-- 🖥 Team leader of **GeekPie_ HPC**
+- 👨‍💻 Team leader of **GeekPie_ HPC**, member of **GeekPie_Arch**
 - 👨‍🏫 Instructor of SI 100+, Intro to Computer Science
-- 🔧 Skills in Full-stack System Dev, DevOps, Web Dev
+- 🔧 Skills in Full-stack System Dev / DevOps / Web Dev, maintaining [ShanghaiTech Mirror](https://mirrors.shanghaitech.edu.cn/)
 - 🌐 Learn more at [My Homepage](https://hezebang.github.io)
 
 ---
