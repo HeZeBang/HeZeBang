@@ -9,7 +9,7 @@
 - 🌱 President of [GeekPie_ Association](https://github.com/ShanghaitechGeekPie/)
 - 🎓 Studying at **ShanghaiTech University**
 - 🔎 Internship at **Shanghai Jiao Tong University, IPADS**
-- 💡 Majoring in Computer Architecture & Parallel Computing & HPC
+- 💡 Majoring in Computer Architecture & HPC & MLSys
 - 🎈 Also Interested in UI/UX, IoT, Electronic Art
 - 👨‍💻 Team leader of **GeekPie_ HPC**, member of **GeekPie_Arch**
 - 👨‍🏫 Instructor of SI 100+, Intro to Computer Science
