@@ -6,14 +6,14 @@
 
 ### I'm currently...
 
-- 🌱 President of [GeekPie_ Association](https://github.com/ShanghaitechGeekPie/)
-- 🎓 Studying at **ShanghaiTech University**
-- 🔎 Internship at **Shanghai Jiao Tong University, IPADS**
-- 💡 Majoring in Computer Architecture & HPC & MLSys
+- 🌱 Ex-president of [GeekPie_ Association](https://github.com/ShanghaitechGeekPie/)
+- 🎓 Undergraduate at **ShanghaiTech University**
+- 🔎 Internship at **IPADS**, **UbiQuant**
+- 💡 Majoring in Computer `Architecture` & `HPC` & `MLSys`
 - 🎈 Also Interested in UI/UX, IoT, Electronic Art
 - 👨‍💻 Team leader of **GeekPie_ HPC**, member of **GeekPie_Arch**
 - 👨‍🏫 Instructor of SI 100+, Intro to Computer Science
-- 🔧 Skills in Full-stack System Dev / DevOps / Web Dev, maintaining [ShanghaiTech Mirror](https://mirrors.shanghaitech.edu.cn/)
+- 🔧 Skills in Full-stack System Dev / DevOps / Web Dev, maintaining [ShanghaiTech Mirror](https://mirrors.shanghaitech.edu.cn/), [GeekPie_ Webpages](https://geekpie.club)
 - 🌐 Learn more at [My Homepage](https://hezebang.github.io)
 
 ---
