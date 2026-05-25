@@ -8,13 +8,13 @@
 
 - 🌱 Ex-president of [GeekPie_ Association](https://github.com/ShanghaitechGeekPie/)
 - 🎓 Undergraduate at **ShanghaiTech University**
-- 🔎 Internship at **IPADS**, **UbiQuant**
-- 💡 Majoring in Computer `Architecture` & `HPC` & `MLSys`
+- 🔎 Incoming SDE intern @ Jump Trading / Former @ **IPADS**, **UbiQuant**
+- 💡 Majoring in `Computer Architecture` & `HPC` & `MLSys`
 - 🎈 Also Interested in UI/UX, IoT, Electronic Art
-- 👨‍💻 Team leader of **GeekPie_ HPC**, member of **GeekPie_Arch**
-- 👨‍🏫 Instructor of SI 100+, Intro to Computer Science
+- 👨‍💻 Former leader of **GeekPie_ HPC**, member of **GeekPie_Arch**
+- 👨‍🏫 Instructor of SI 100+, Intro to Computer Science / TA of CS 110, Computer Architecture
 - 🔧 Skills in Full-stack System Dev / DevOps / Web Dev, maintaining [ShanghaiTech Mirror](https://mirrors.shanghaitech.edu.cn/), [GeekPie_ Webpages](https://geekpie.club)
-- 🌐 Learn more at [My Homepage](https://hezebang.github.io)
+- 🌐 Learn more at [My Homepage](https://zambar.dev)
 
 ---
 
