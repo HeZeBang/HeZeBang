@@ -8,7 +8,7 @@
 
 - 🌱 Ex-president of [GeekPie_ Association](https://github.com/ShanghaitechGeekPie/)
 - 🎓 Undergraduate at **ShanghaiTech University**
-- 🔎 Incoming SDE intern @ Jump Trading / Former @ **IPADS**, **UbiQuant**
+- 🔎 SDE 2026 Summer intern @ Jump Trading / Former @ **IPADS**, **UbiQuant**
 - 💡 Majoring in `Computer Architecture` & `HPC` & `MLSys`
 - 🎈 Also Interested in UI/UX, IoT, Electronic Art
 - 👨‍💻 Former leader of **GeekPie_ HPC**, member of **GeekPie_Arch**
